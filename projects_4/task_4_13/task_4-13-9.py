@@ -15,7 +15,7 @@ else:
     i = 0
     
     while i < num:
-        if array[i] % 2 != 0:  # проверка на нечетность
+        if array[i] % 2 != 0:
             sum_odd = sum_odd + array[i]
         i = i + 1
 
