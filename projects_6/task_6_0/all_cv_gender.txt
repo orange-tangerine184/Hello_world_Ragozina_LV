@@ -1,0 +1,9 @@
+Female:
+Variance is 19.19
+Standart deviation is 4.38
+Coefficient of variation is 53.12 %
+
+Male:
+Variance is 25.88
+Standart deviation is 5.09
+Coefficient of variation is 42.54 %
